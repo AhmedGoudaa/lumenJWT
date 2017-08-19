@@ -1,4 +1,5 @@
 /vendor
+!vendor/tymon
 /.idea
 Homestead.json
 Homestead.yaml
