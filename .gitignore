@@ -1,5 +1,5 @@
-!vendor/tymon/jwt-auth/src/JWTGuard.php
 /vendor
+!vendor/tymon/jwt-auth/src/JWTGuard.php
 /.idea
 Homestead.json
 Homestead.yaml
